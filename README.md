@@ -27,6 +27,11 @@ El conversor de divisas ofrece las siguientes funcionalidades:
 - Manejo de errores para entradas no válidas.
 - Interfaz de usuario en consola para facilitar la interacción.
 
+![Imagen 1](https://github.com/Nahuezzz/conversor-de-monedas-java/blob/main/demostracion-1.png)
+
+![Imagen 2](https://github.com/Nahuezzz/conversor-de-monedas-java/blob/main/demostracion-2.png)
+
+
 ## Tecnologías Utilizadas
 
 Las tecnologías que se utilizaron para este proyecto y necesarias para hacerlo andar son:
